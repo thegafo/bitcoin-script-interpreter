@@ -12,7 +12,7 @@ npm i bitcoin-script-interpreter
 
 ```javascript
 
-const Interpreter = require('bitcoin-script-interpreter');
+const Interpreter = require('bitcoin-interpreter');
 const interpreter = new Interpreter();
 const ops = interpreter.ops();
 

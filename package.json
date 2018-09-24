@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-script-interpreter",
+  "name": "bitcoin-interpreter",
   "version": "1.0.0",
   "description": "JavaScript implementation of a Bitcoin Script interpreter",
   "main": "index.js",
