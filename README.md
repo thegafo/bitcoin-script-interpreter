@@ -1,5 +1,5 @@
 # bitcoin-script-interpreter
-JavaScript implementation of a Bitcoin Script interpreter by [GAFO TECH](https://gafo.tech)
+JavaScript implementation wrapper of a Bitcoin Script interpreter
 
 
 ## Installation
